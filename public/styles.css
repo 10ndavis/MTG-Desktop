@@ -1,0 +1,56 @@
+/*<-----------------------general--------------------------->*/
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+  background-color: #ecf0f1;
+}
+
+/*<-----------------------LOGIN----------------------------->*/
+#notSignedUp {
+  float: right;
+  color: #83a1d1;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+}
+
+/*<-------------------------BINDER---------------------------->*/
+.cardTitleLeft {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+
+
+/*<------------------------COLLECTION------------------------->*/
+#collectionMenuLeft {
+  box-shadow: 1px 1px 5px #e0e1e2;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.collectionMenuLeftItem {
+  border-bottom: 1px solid #e0e1e2;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.searchBox {
+  text-align:center;
+}
+
+.collectionLink {
+  color: black;
+}
+
+/*<------------------WISH LIST---------------------->*/
+
+.cardText {
+  font-weight: bold;
+  text-align: center;
+}

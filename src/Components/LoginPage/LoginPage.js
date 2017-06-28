@@ -22,7 +22,7 @@ class LoginPage extends Component {
         password: pwd
       })
       .then(function (response) {
-        console.log("response from server ", response.config.data);
+        console.log("response from server ", response);
       })
       .catch(function (error) {
         console.log(error);

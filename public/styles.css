@@ -48,6 +48,11 @@ body {
   color: black;
 }
 
+#searchCard{
+  padding-left: 40px;
+  padding-right: 0;
+}
+
 /*<------------------WISH LIST---------------------->*/
 
 .cardText {
